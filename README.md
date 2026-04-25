@@ -44,6 +44,9 @@ This project is a File Management System developed using Python and Tkinter GUI.
 - Double click `main.exe`  
 - No Python installation required  
 
+### 💻 Method 2 (Source Code)
+- Install Python  
+- Install required library:
 pip install pillow
 
 - Run the project:
@@ -58,7 +61,8 @@ python main.py
 This project demonstrates file handling, GUI development, and basic operating system concepts in Python.
 
 ## 📌 Submission
-This project includes:
+
+This project is submitted for academic evaluation and includes:
 - Source code  
 - System design  
 - Executable file  
@@ -70,6 +74,3 @@ v1.0 (Initial Release)
 - Zahra Rehman  
 - Sadia Naveed  
 - Nayab Arshad  
-### 💻 Method 2 (Source Code)
-- Install Python  
-- Install required library:
