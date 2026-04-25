@@ -57,6 +57,26 @@ python main.py
 - Standalone application (no IDE required)  
 - Runs directly on Windows system  
 
+## 📥 How to Download Project
+
+### 📂 Download Full Source Code (GitHub Folder)
+- Go to the main repository page  
+- Click the green **Code** button  
+- Select **Download ZIP**  
+- Extract the ZIP file on your system  
+- Open folder in VS Code or any Python IDE  
+
+### 🚀 Download App (Executable - Release Version)
+- Go to the **Releases** section of this repository  
+- Download the latest version (v1.0)  
+- Download the `main.exe` file  
+- Save it on your system  
+- Double click `main.exe` to run the application  
+
+✔ No Python or IDE required for EXE version  
+✔ Direct standalone application  
+✔ Runs independently on Windows system  
+
 ## 🎯 Purpose
 This project demonstrates file handling, GUI development, and basic operating system concepts in Python.
 
